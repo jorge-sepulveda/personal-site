@@ -23,7 +23,7 @@ email: gSepulveda9697@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cloud engineer who is working on the future of financial payment systems. 
   Big videogame and sci-fi nerd and I always love learning cool new things.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/personal-site" # the subpath of your site, e.g. /blog
 
 domain: jorge-sepulveda.github.io
 url: "https://jorge-sepulveda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
