@@ -29,6 +29,7 @@ domain: jorge-sepulveda.github.io
 url: "https://jorge-sepulveda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  jorge-sepulveda
+baseurl: /docs
 
 # Build settings
 theme: minima
